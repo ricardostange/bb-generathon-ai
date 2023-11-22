@@ -1,4 +1,6 @@
 # bb-generathon-ai
-AI generativa combinada com computação tradicional aplicada a menu de opções.
+Uma demonstração de um banco que funciona diretamente em formato de chat. Suporta mensagens de texto e voz.
+
+# Live Demo: https://t.me/bancodevbot
 
 
